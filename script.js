@@ -13,7 +13,7 @@ const noMessages = [
     "No",
     "Sure ka na? 🤔",
     "Dali na kasi boss  🥺",
-    "If you say no, I will be really sad...",
+    "Pagbigyan mo na ako please?...",
     "I will be very sad... 😢",
     "Please??? 💔",
     "Don't do this to me...",
